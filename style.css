@@ -1,0 +1,27 @@
+body {
+    margin: 50px;
+    font-family: monospace;
+  
+    background-color: white;
+    color: black;
+}
+
+.heading1{
+    text-align: center;
+    margin: 100px;
+}
+
+.heading2{
+    text-align: center;
+    margin:50px;
+}
+
+.info_text{
+    margin:50px;
+
+}
+
+.page_button{
+    font-family: monospace;
+    color: black;
+}
